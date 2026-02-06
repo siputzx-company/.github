@@ -56,36 +56,6 @@ const SiputzxCompany = {
 
 ---
 
-## 📂 Featured Repositories
-
-<div align="center">
-
-| Repository | Description | Language |
-|:-----------|:------------|:--------:|
-| 🚀 **Project Alpha** | Innovative web application solution | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square) |
-| ⚡ **Project Beta** | High-performance backend system | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square) |
-| 🎨 **Project Gamma** | Modern UI component library | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square) |
-
-</div>
-
----
-
-## 📈 Activity & Contributions
-
-<div align="center">
-
-```
-📊 Organization Metrics
-├─ 🎯 Active Projects: Growing
-├─ 👥 Contributors: Open for collaboration
-├─ 🌟 Focus: Quality over quantity
-└─ 🚀 Status: Actively developing
-```
-
-</div>
-
----
-
 ## 🌐 Connect With Us
 
 <div align="center">
