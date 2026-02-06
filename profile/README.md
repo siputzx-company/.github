@@ -1,36 +1,117 @@
-# Apisku
+<div align="center">
 
-> Free public APIs for developers
+# 🐌 SIPUTZX COMPANY
 
-## About
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+Digital+Solutions;Innovation+%7C+Quality+%7C+Excellence;Open+Source+Development" alt="Typing SVG" />
 
-Apisku is a collection of free public APIs that anyone can use. No registration or complex authentication required.
+[![Profile Views](https://komarev.com/ghpvc/?username=siputzx-company&color=00D9FF&style=flat-square&label=Profile+Views)](https://github.com/siputzx-company)
 
-## Features
+</div>
 
-- ✨ Free to use
-- 🚀 No authentication needed
-- 📖 Simple documentation
-- 🌐 Public access
+---
 
-## Available APIs
+## 🎯 About Us
 
-Browse our repositories to see all available APIs.
+**SIPUTZX COMPANY** adalah organisasi pengembangan yang didirikan oleh **[@siputzx](https://github.com/siputzx)** dengan fokus pada inovasi teknologi dan solusi digital berkualitas tinggi.
 
-## Contributing
+### 💼 What We Do
 
-Contributions are welcome! Feel free to:
+```typescript
+const SiputzxCompany = {
+    focus: ["Software Development", "Open Source Projects", "Digital Innovation"],
+    mission: "Delivering excellence through technology",
+    vision: "Building the future, one commit at a time"
+};
+```
 
-- Submit new APIs
-- Fix bugs
-- Improve documentation
+---
 
-## License
+## 🤝 Strategic Partners
 
-Each project has its own license. Check the LICENSE file in each repository.
+<div align="center">
+
+| Partner | Description |
+|:-------:|:-----------:|
+| **[atlantic-server.com](https://atlantic-server.com)** | Infrastructure Solutions |
+| **[bihost.my.id](https://bihost.my.id)** | Hosting Services |
+
+</div>
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📂 Featured Repositories
+
+<div align="center">
+
+| Repository | Description | Language |
+|:-----------|:------------|:--------:|
+| 🚀 **Project Alpha** | Innovative web application solution | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square) |
+| ⚡ **Project Beta** | High-performance backend system | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square) |
+| 🎨 **Project Gamma** | Modern UI component library | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square) |
+
+</div>
+
+---
+
+## 📈 Activity & Contributions
+
+<div align="center">
+
+```
+📊 Organization Metrics
+├─ 🎯 Active Projects: Growing
+├─ 👥 Contributors: Open for collaboration
+├─ 🌟 Focus: Quality over quantity
+└─ 🚀 Status: Actively developing
+```
+
+</div>
+
+---
+
+## 🌐 Connect With Us
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/siputzx-company)
+[![Website](https://img.shields.io/badge/-Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://siputzx.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@siputzx.com)
+
+</div>
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ for the developer community</sub>
+
+### 💡 *"Innovation distinguishes between a leader and a follower"*
+
+<br>
+
+**⭐ Star our repositories if you find them useful!**
+
+<br>
+
+![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+**Crafted with ❤️ by [@siputzx](https://github.com/siputzx)**
+
+© 2024 SIPUTZX COMPANY • All Rights Reserved
+
 </div>
