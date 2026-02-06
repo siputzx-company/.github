@@ -72,16 +72,6 @@ const SiputzxCompany = {
 
 ### 💡 *"Innovation distinguishes between a leader and a follower"*
 
-<br>
-
-**⭐ Star our repositories if you find them useful!**
-
-<br>
-
-![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 **Crafted with ❤️ by [@siputzx](https://github.com/siputzx)**
-
-© 2024 SIPUTZX COMPANY • All Rights Reserved
 
 </div>
