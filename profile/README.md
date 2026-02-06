@@ -32,7 +32,7 @@ const SiputzxCompany = {
 
 | Partner | Description |
 |:-------:|:-----------:|
-| **[atlantic-server.com](https://atlantic-server.com)** | Infrastructure Solutions |
+| **[atlantic-server.com](https://atlantic-server.com)** | Hosting Service |
 | **[bihost.my.id](https://bihost.my.id)** | Hosting Services |
 
 </div>
